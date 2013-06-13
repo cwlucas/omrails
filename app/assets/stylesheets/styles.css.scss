@@ -1,3 +1,10 @@
+/*You can change the font here $baseFontTamily: Oxygen; 
+@import url(http://fonts.googleapis.cm/css?family=Oxygen);*/
+
+$btnPrimaryBackground: green;
+$navbarBackgroundHighlight: white;
+$navbarBackground: white;
+
 @import 'bootstrap';
 
 body {
@@ -5,6 +12,7 @@ body {
 }
 
 @import 'bootstrap-responsive';
+
 
 .footer {
  		margin-top: 50px;
